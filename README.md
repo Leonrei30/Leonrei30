@@ -1,6 +1,7 @@
 <h2>Olá👋🏻, eu sou Gabriel Leon</h2>
 
-*Sobre mim:*
+       *Sobre mim:*
+
 -👨🏻‍🦱 Tenho 21 anos e venho de Fortaleza/CE.
 
 -📖 Graduando de Sistemas de informação no Inteli.
