@@ -14,5 +14,7 @@
 
 -♠️ Adoro jogar jogos que envolve baralho.
 
+-🤓 Sou meio nerd, jogo LOL e gosto de anime/mangá em geral,sendo meu favorito One Piece.
+
 -Meu buddy é o Calebe, por curiosidade também foi meu mentor na wave.
 https://github.com/calebe-matias
